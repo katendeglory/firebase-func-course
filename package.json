@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "git-combo": "git add . && git commit -am \"Yet another commit\" && git push origin master"
+  },
+  "dependencies": {
+    "firebase": "^7.19.0"
+  }
+}
